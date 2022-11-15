@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Syksyn värit-kirja",
+        "price": 10.99,
+        "imgUrl": "/img/kirja.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tuore banaani",
+        "price": 1.05,
+        "imgUrl": "/img/banana.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Moderni tietokone",
+        "price": 1244.99,
+        "imgUrl": "/img/tietokone.jpg"
+    }
+]
